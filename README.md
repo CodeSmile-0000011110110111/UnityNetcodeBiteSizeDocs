@@ -20,10 +20,10 @@ Be sure to [join my Discord channel](https://discord.gg/56zUz3ZHUJ) or reach out
 
 Please consider subscribing to [my Youtube channel](https://www.youtube.com/channel/UCRkN2MtniQ3A70BOuwTN7tA) where I mostly post works-in-progress.&#x20;
 
-Lastly, the following link is the repository with the Unity project documented on these pages:
+### Source Code Repository
+
+The following is the repository containing the Unity project I'm documenting on these pages:
 
 {% embed url="https://github.com/CodeSmile-0000011110110111/UnityNetcodeBiteSizeExamples" %}
 CodeSmile's Unity Netcode for GameObjects BiteSize examples project
 {% endembed %}
-
-{% embed url="https://www.youtube.com/channel/UCRkN2MtniQ3A70BOuwTN7tA" %}
