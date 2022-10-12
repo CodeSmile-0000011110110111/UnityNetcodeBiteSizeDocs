@@ -8,6 +8,8 @@ As simple as it may seem, getting the connection established and being able to h
 
 ![](<.gitbook/assets/image (3).png>)
 
+![](.gitbook/assets/image.png)
+
 
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
