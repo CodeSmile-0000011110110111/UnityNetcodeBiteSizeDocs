@@ -8,7 +8,9 @@ As simple as it may seem, getting the connection established and being able to h
 
 ![](<.gitbook/assets/image (3).png>)
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image.png)<img src=".gitbook/assets/image (5).png" alt="" data-size="original">
+
+
 
 
 
